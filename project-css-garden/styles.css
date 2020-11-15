@@ -1,0 +1,53 @@
+body {
+  }
+  .container{
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px;
+  }
+  .row{
+    display: flex;
+    margin-top: 10px;
+  }
+  .flower{
+    width: 50%;
+  }
+  .flower img{
+    width: 100%;
+  }
+  .title{
+    width: 50%;
+    background: url(https://pics.prcm.jp/f4ceb0a8b2fa7/49622670/jpeg/49622670_220x288.jpeg)no-repeat;
+    font-family: 'Dancing Script', cursive;
+
+  }
+  .title h1{
+        padding-top: 50px;
+  }
+  .contents{
+    width: 80%;
+    padding-left: 30px;
+  }
+  .titlebox{
+    background: url(https://www.seikatsu110.jp/cms/wp-content/uploads/2019/05/mv-maple-type-commentary-858x530.jpg);
+    padding: 5px 10px;
+    color: white;
+  }
+
+  .sidebar{
+    width: 25%;
+    background-color: rgba(138,188,159,0.5);
+  }
+  .sidebar h3{
+    padding:20px;
+  }
+  .sidebar h3 a{
+    text-decoration: none;
+    color: white;
+  }
+  .sidebar img{
+    width: 100%;
+  }
+  .footerarea{
+    justify-content: center;
+  }
